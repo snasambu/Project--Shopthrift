@@ -1,30 +1,36 @@
-# Ecommerce website
+# 🛍️ StyleVault (Shopthrift)
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+StyleVault is a modern, responsive e-commerce web application built with **React**, designed for a seamless online shopping experience. It allows users to browse products, explore categories, view detailed product pages, and manage their cart — all with an elegant and intuitive interface.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/snasambu40-gmailcoms-projects/v0-ecommerce-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/VhRrVApSu0B)
+---
 
-## Overview
+## 🚀 Live Demo
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+👉 **Deployed on Youware:** [https://youware.app/project/sr0of2q3nx](https://youware.app/project/sr0of2q3nx)
 
-## Deployment
+---
 
-Your project is live at:
+## 🧩 Features
 
-**[https://vercel.com/snasambu40-gmailcoms-projects/v0-ecommerce-website](https://vercel.com/snasambu40-gmailcoms-projects/v0-ecommerce-website)**
+- 🏠 Home page showcasing featured products  
+- 🛒 Product listing and detailed product views  
+- 🧭 Category-based browsing  
+- 💼 Shopping cart management  
+- 👤 User account section  
+- ℹ️ About and Contact pages  
+- 🔥 Toast notifications for smooth UX  
+- ⚡ Fast and responsive design
 
-## Build your app
+---
 
-Continue building your app on:
+## 🛠️ Tech Stack
 
-**[https://v0.dev/chat/projects/VhRrVApSu0B](https://v0.dev/chat/projects/VhRrVApSu0B)**
+- **Frontend:** React, React Router DOM, Tailwind CSS, React Hot Toast  
+- **Build Tool:** Vite or Create React App (depending on setup)  
+- **Version Control:** Git & GitHub  
+- **Deployment:** Youware  
 
-## How It Works
+---
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## 🧠 Project Structure
+
